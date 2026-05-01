@@ -1,9 +1,0 @@
-{
-  "name": "borneo-360",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Plataforma comercial Borneo 360 - Dashboard por cliente",
-  "scripts": {
-    "build": "echo 'Static site - no build step needed'"
-  }
-}
